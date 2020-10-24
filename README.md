@@ -27,7 +27,7 @@ This github profile is made for personal use but if you want to contribute on on
 🙍‍♂️ <a href="https://github.com/GabrielCrackPro/JS-Contacts-App" target="blank">Contacts App</a>
 <br>
 <br>
-➕ <a href="github.com/GabrielCrackPro" target="blank">And More</a>
+➕ <a href="https://github.com/GabrielCrackPro" target="blank">And More</a>
 
 ## Social Media
 

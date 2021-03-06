@@ -5,6 +5,13 @@
 
 This github profile is made for personal use but if you want to contribute on one of my project you're free to do it
 
+### Icons Legend
+
+- **🎉** - Project Started
+- **💻** - Feature Added
+- **🔧** - Bugs fixed
+- **✏** - Documentation updated
+
 ## Stats
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark)

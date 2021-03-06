@@ -26,7 +26,7 @@ This github profile is made for personal use but if you want to contribute on on
 
 ## Social Media
 
-<a href="http://twitter.com/gabrielvr01" target="blank" style="padding:10px;"><i class="fab fa-twitter" style="font-size:50px"></i></a>
-<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank"><i class="fab fa-facebook-f" style="font-size:50px"></i></a>
-<a href="reddit.com/gabrielvr01" target="blank"><i class="fab fa-reddit-alien" style="font-size:50px;padding:10px"></i></a>
-<a href="mailto:gabrielcrackpro2001@gmail.com"><i class="fas fa-envelope" style="font-size:50px;padding:10px"></i></a>
+- Follow me on <a href="http://twitter.com/gabrielvr01" target="blank">twitter</a>
+- Add me on <a href="https://facebook.com/gabriel.vargasreyes.5" target="blank">facebook</a>
+- Follow me on <a href="http://reddit.com/gabrielvr01" target="blank">reddit</a>
+- Send me an <a href="mailto:gabrielcrackpro2001@gmail.com">email</a>

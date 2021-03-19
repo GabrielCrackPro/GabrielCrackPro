@@ -9,8 +9,9 @@ This github profile is made for personal use but if you want to contribute on on
 
 - **🎉** - Project Started
 - **💻** - Feature Added
-- **🔧** - Bugs fixed
-- **✏** - Documentation updated
+- **🔧** - Bugs Fixed
+- **✏** - Documentation Updated
+- **🌍** - App Deployed
 
 ## Stats
 

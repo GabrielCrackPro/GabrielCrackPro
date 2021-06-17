@@ -30,7 +30,7 @@ This github profile is made for personal use but if you want to contribute on on
 
 [![Google-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Google-Simulator&theme=dark)](https://github.com/GabrielCrackPro/Google-Simulator)
 [![duckduckgo-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=duckduckgo-Simulator&theme=dark)](https://github.com/GabrielCrackPro/duckduckgo-Simulator)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Portfolio&theme=dark)](https://github.com/GabrielCrackPro/Portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=personal-porfolio&theme=dark)](https://github.com/GabrielCrackPro/personal-porfolio)
 [![RealTime-Clock](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=RealTime-Clock&theme=dark)](https://github.com/GabrielCrackPro/RealTime-Clock)
 
 ## Social Media

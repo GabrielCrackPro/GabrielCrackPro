@@ -1,7 +1,6 @@
-<!-- Icons CDN -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
-
 ## Info
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
 This github profile is made for personal use but if you want to contribute on one of my project you're free to do it
 
@@ -22,7 +21,7 @@ This github profile is made for personal use but if you want to contribute on on
 ## Pinned
 
 [![Python-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=python-scripts&theme=dark)](https://github.com/GabrielCrackPro/python-scripts)
-[![pokemon-tcg-app](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-tcg-app&theme=dark)](https://github.com/GabrielCrackPro/pokemon-tcg-app)
+[![pokemon-api-app](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/pokemon-tcg-app)
 [![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)
 [![Setup](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Setup&theme=dark)](https://github.com/GabrielCrackPro/Setup)
 
@@ -31,7 +30,7 @@ This github profile is made for personal use but if you want to contribute on on
 [![Google-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Google-Simulator&theme=dark)](https://github.com/GabrielCrackPro/Google-Simulator)
 [![duckduckgo-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=duckduckgo-Simulator&theme=dark)](https://github.com/GabrielCrackPro/duckduckgo-Simulator)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=personal-porfolio&theme=dark)](https://github.com/GabrielCrackPro/personal-porfolio)
-[![RealTime-Clock](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=RealTime-Clock&theme=dark)](https://github.com/GabrielCrackPro/RealTime-Clock)
+[![PokeFinder App](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/RealTime-Clock)
 
 ## Social Media
 

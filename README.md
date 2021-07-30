@@ -2,8 +2,6 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
-This github profile is made for personal use but if you want to contribute on one of my project you're free to do it
-
 ### Icons Legend
 
 - **🎉** - Project Started

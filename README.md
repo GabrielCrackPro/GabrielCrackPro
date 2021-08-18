@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact)
 
 ## Pinned
-
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=dotfiles&theme=dark)](https://github.com/GabrielCrackPro/ddotfiles)
 [![Python-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=python-scripts&theme=dark)](https://github.com/GabrielCrackPro/python-scripts)
 [![pokemon-api-app](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/pokemon-tcg-app)
 [![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)

@@ -13,7 +13,6 @@
 ## Stats
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact)
 
 ## Pinned

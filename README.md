@@ -1,14 +1,13 @@
 ## Info
 
-<a href="http://gabrielvdev.surge.sh" target="blank" title="Portfolio"><img src="http://gabrielvdev.surge.sh/img/logo.png" height="50" width="50"></a>
-
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
 ## Social Media
 
-<a href="http://twitter.com/gabrielvr01" target="blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="100" width="auto"></a>
-<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank"><img src="https://classicrock995.com/wp-content/uploads/2020/11/Facebook-logo.png" height="100" width="auto"></a>
-<a href="http://reddit.com/gabrielvr01" target="blank"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" height="100" width="auto"></a>
+<a href="http://twitter.com/gabrielvr01" target="blank" title="Twitter"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="100" width="auto"></a>
+<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank" title="Facebook"><img src="https://classicrock995.com/wp-content/uploads/2020/11/Facebook-logo.png" height="100" width="auto"></a>
+<a href="http://reddit.com/gabrielvr01" target="blank" title="Reddit"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" height="100" width="auto"></a>
+<a href="http://gabrielvdev.surge.sh" target="blank" title="Portfolio"><img src="http://gabrielvdev.surge.sh/img/logo.png" height="50" width="auto"></a>
 
 ## Icons Legend
 

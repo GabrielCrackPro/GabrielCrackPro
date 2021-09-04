@@ -12,8 +12,8 @@
 
 ## Stats
 
-[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact)
+[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&hide_title=true)
 
 ## Pinned
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=dotfiles&theme=dark)](https://github.com/GabrielCrackPro/ddotfiles)
@@ -21,13 +21,6 @@
 [![pokemon-api-app](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/pokemon-tcg-app)
 [![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)
 [![Setup](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Setup&theme=dark)](https://github.com/GabrielCrackPro/Setup)
-
-## Deployed
-
-[![Google-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Google-Simulator&theme=dark)](https://github.com/GabrielCrackPro/Google-Simulator)
-[![duckduckgo-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=duckduckgo-Simulator&theme=dark)](https://github.com/GabrielCrackPro/duckduckgo-Simulator)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=personal-porfolio&theme=dark)](https://github.com/GabrielCrackPro/personal-porfolio)
-[![PokeFinder App](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/RealTime-Clock)
 
 ## Social Media
 

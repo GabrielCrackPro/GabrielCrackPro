@@ -1,6 +1,8 @@
+<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
 ## Info
 
 <a href="http://gabrielvdev.surge.sh" target="blank" title="Portfolio"><img src="http://gabrielvdev.surge.sh/img/logo.png" height="50" width="50"></a>
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
 ### Icons Legend
@@ -25,7 +27,7 @@
 
 ## Social Media
 
-- Follow me on <a href="http://twitter.com/gabrielvr01" target="blank">twitter</a>
-- Add me on <a href="https://facebook.com/gabriel.vargasreyes.5" target="blank">facebook</a>
-- Follow me on <a href="http://reddit.com/gabrielvr01" target="blank">reddit</a>
-- Send me an <a href="mailto:gabrielcrackpro2001@gmail.com">email</a>
+<a href="http://twitter.com/gabrielvr01" target="blank"><i class="fab fa-twitter"></i></a>
+<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank"><i class="fab fa-facebook"></i></a>
+<a href="http://reddit.com/gabrielvr01" target="blank"><i class="fab fa-reddit"></i></a>
+<a href="mailto:gabrielcrackpro2001@gmail.com"><i class="fas fa-envelope"></i></a>

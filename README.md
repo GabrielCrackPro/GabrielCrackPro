@@ -2,7 +2,7 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
-[![Portfolio](http://gabrielvdev.surge.sh) 
+<a href="http://gabrielvdev.surge.sh" target="blank"><img src="http://gabrielvdev.surge.sh/img/logo.png"> Portfolio</a>
 
 ### Icons Legend
 

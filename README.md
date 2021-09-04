@@ -1,7 +1,7 @@
 ## Info
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 <a href="http://gabrielvdev.surge.sh" target="blank" title="Portfolio"><img src="http://gabrielvdev.surge.sh/img/logo.png" height="50" width="50"></a>
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
 ### Icons Legend
 

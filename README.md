@@ -2,6 +2,8 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 
+[![Portfolio](http://gabrielvdev.surge.sh) 
+
 ### Icons Legend
 
 - **🎉** - Project Started
@@ -19,7 +21,6 @@
 ## Pinned
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=dotfiles&theme=dark)](https://github.com/GabrielCrackPro/ddotfiles)
 [![Python-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=python-scripts&theme=dark)](https://github.com/GabrielCrackPro/python-scripts)
-[![pokemon-api-app](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=pokemon-api-app&theme=dark)](https://github.com/GabrielCrackPro/pokemon-tcg-app)
 [![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)
 [![Setup](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Setup&theme=dark)](https://github.com/GabrielCrackPro/Setup)
 

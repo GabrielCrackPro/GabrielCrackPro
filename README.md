@@ -6,12 +6,11 @@
 
 ## Social Media
 
-<a href="http://twitter.com/gabrielvr01" target="blank">Twitter</a>
-<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank">Facebook</a>
-<a href="http://reddit.com/gabrielvr01" target="blank">Reddit</a>
-<a href="mailto:gabrielcrackpro2001@gmail.com">Email</a>
+<a href="http://twitter.com/gabrielvr01" target="blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="100" width="auto"></a>
+<a href="https://facebook.com/gabriel.vargasreyes.5" target="blank"><img src="https://classicrock995.com/wp-content/uploads/2020/11/Facebook-logo.png" height="100" width="auto"></a>
+<a href="http://reddit.com/gabrielvr01" target="blank"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" height="100" width="auto"</a>
 
-### Icons Legend
+## Icons Legend
 
 - **🎉** - Project Started
 - **💻** - Feature Added

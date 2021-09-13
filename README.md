@@ -1,8 +1,9 @@
 ## Info
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
-<br>
-- <a href="https://github.com/GabrielCrackPro/Setup" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png" height="100" width="auto" alt="setup"> Setup</a>
+## Setup
+
+<a href="https://github.com/GabrielCrackPro/Setup" title="Setup" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png" height="100" width="auto" alt="setup"></a>
 
 ## Social Media
 

@@ -1,6 +1,7 @@
 ## Info
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
+
 ## Setup & Social Media
 
 <a href="https://github.com/GabrielCrackPro/Setup" title="Setup" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png" height="100" width="auto" alt="setup"></a>
@@ -20,11 +21,11 @@
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&hide=html&theme=dark&layout=compact&hide_title=true)
 
 ## Pinned
+
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=dotfiles&theme=dark)](https://github.com/GabrielCrackPro/ddotfiles)
 [![Python-Scripts](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=python-scripts&theme=dark)](https://github.com/GabrielCrackPro/python-scripts)
 [![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)
 [![Setup](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Setup&theme=dark)](https://github.com/GabrielCrackPro/Setup)
-

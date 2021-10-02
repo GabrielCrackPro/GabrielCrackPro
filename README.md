@@ -19,8 +19,8 @@
 
 ## Stats
 
-[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&hide=html&theme=dark&layout=compact&hide_title=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&hide_title=true)
+[![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&hide=html&theme=dark&layout=compact&hide_title=true)
 
 ## Pinned
 

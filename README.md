@@ -24,7 +24,7 @@
 ## Languages
 
 [![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&hide=html&theme=dark&layout=compact&custom_title=Languages)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned
 

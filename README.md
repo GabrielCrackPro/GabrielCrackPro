@@ -27,7 +27,7 @@
 
 ## Total Coding Time
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned
 

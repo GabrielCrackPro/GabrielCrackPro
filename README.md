@@ -21,11 +21,11 @@
 
 ## Languages
 
-[![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&hide=html&theme=dark&layout=compact&custom_title=Languages)
+[![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
 
 ## Total Coding Time
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned
 

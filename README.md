@@ -1,4 +1,5 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
+<a href="https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1"><img src="https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg" alt="Total time coded since Jul 29 2021" /></a>
 
 ## Setup & Social Media
 

@@ -6,7 +6,7 @@
 <a href="https://github.com/GabrielCrackPro/Setup" title="Setup" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png" height="100" width="auto" alt="setup"></a>
 <a href="http://twitter.com/gabrielvr01" target="blank" title="Twitter"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="100" width="auto"></a>
 <a href="http://reddit.com/gabrielvr01" target="blank" title="Reddit"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" height="100" width="auto"></a>
-<a href="" target="blank" title="npm"><img src="https://www.logolynx.com/images/logolynx/7f/7fb976a537620fed310872d533cd161c.png" height="100" width="100" alt="npm"></a>
+<a href="https://www.npmjs.com/~gabrielvr01" target="blank" title="npm"><img src="https://www.logolynx.com/images/logolynx/7f/7fb976a537620fed310872d533cd161c.png" height="100" width="100" alt="npm"></a>
 
 ## Icons Legend
 

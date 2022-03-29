@@ -4,7 +4,7 @@
 ## Setup & Social Media
 
 [![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/GabrielCrackPro/Setup)
-[![Twitter](https://img.shields.io/badge/@gabrielvr01-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow)](http://twitter.com/gabrielvr01)
+[![Twitter](https://img.shields.io/badge/@gabrielvr01-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow)](http://twitter.com/gabrielvr001)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](http://reddit.com/gabrielvr01)
 
 ## Skills

@@ -23,6 +23,7 @@
 ## Code editors
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](http://visualstudio.com/download)
+[![VS Code Config](https://img.shields.io/badge/VS%20Code%20Config-2B7BDB?style=for-the-badge&logo=editorconfig&logoColor=FFF)](https://github.com/GabrielCrackPro/vscode-settings)
 [![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 

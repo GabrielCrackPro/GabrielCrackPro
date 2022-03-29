@@ -3,7 +3,8 @@
 
 ## Setup & Social Media
 
-[![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/GabrielCrackPro/Setup)
+[![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-333333?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/GabrielCrackPro/Setup)
+
 [![Twitter](https://img.shields.io/badge/@gabrielvr01-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow)](http://twitter.com/gabrielvr001)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](http://reddit.com/gabrielvr01)
 
@@ -16,17 +17,22 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=javascript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=css)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=sql)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=java)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&language=shell)
+[![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&languages=json)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/GabrielCrackPro?tab=repositories&q=&type=&languages=php)
 
-## Code editors
+## Workflow & Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](http://visualstudio.com/download)
-[![VS Code Config](https://img.shields.io/badge/VS%20Code%20Config-2B7BDB?style=for-the-badge&logo=editorconfig&logoColor=FFF)](https://github.com/GabrielCrackPro/vscode-settings)
+[![VS Code Config](https://img.shields.io/badge/Visual%20Studio%20Code%20Config-2B7BDB?style=for-the-badge&logo=editorconfig&logoColor=FFF)](https://github.com/GabrielCrackPro/vscode-settings)
 
 [![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3BB965?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+[![Terminal](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com)
 
 ## Icons Legend
 

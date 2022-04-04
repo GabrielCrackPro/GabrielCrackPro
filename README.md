@@ -32,7 +32,6 @@
 [![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&labelColor=000)]()
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&labelColor=000)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3BB965?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=000)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000)]()
 
 [![Firefox Developer Edition](https://img.shields.io/badge/Firefox_Developer_Edition-294acf?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000)]()
 
@@ -45,6 +44,8 @@
 [![NPM](https://img.shields.io/badge/@gabrielvr01-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=000)](https://www.npmjs.com/~gabrielvr01)
 
 [![Web](https://img.shields.io/badge/-gabrieldev.surge.sh-212528?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000)](http://gabrielvdev.surge.sh)
+[![Email](https://img.shields.io/badge/gabrielcrackpro2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:gabrielcrackpro2001@gmail.com)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-@gabielvr01-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=000)](https://www.buymeacoffee.com/gabrielvr01)
 
 ## Icons Legend
 

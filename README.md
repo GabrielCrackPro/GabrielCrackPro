@@ -1,8 +1,5 @@
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000)](https://GitHub.com/GabrielCrackPro/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=f00)](https://GitHub.com/GabrielCrackPro/ama)
 [![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge&labelColor=000)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/gabrielvr001?style=social)](https://twitter.com/gabrielvr001)
-![GitHub Followers](https://img.shields.io/github/followers/gabrielcrackpro?style=social)
 
 ## Setup
 
@@ -26,6 +23,8 @@
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000)]()
 
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=000)]()
+
 ## Workflow & Tools
 
 ### Code Editors
@@ -47,7 +46,6 @@
 [![Firefox Developer Edition](https://img.shields.io/badge/Firefox_Developer_Edition-294acf?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000)]()
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&&labelColor=000)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white&labelColor=000)]()
-
 ### API development
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000)]()
@@ -60,6 +58,13 @@
 [![Reddit](https://img.shields.io/badge/@gabrielvr01-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000)](http://reddit.com/gabrielvr01)
 [![Instagram](https://img.shields.io/badge/@gabrielvr001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/gabrielvr001)
 [![NPM](https://img.shields.io/badge/@gabrielvr01-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=000)](https://www.npmjs.com/~gabrielvr01)
+
+[![HackTheBox](https://img.shields.io/badge/@gabrielvr001-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=white&labelColor=000)](https://app.hackthebox.com/profile/overview)
+[![Codewars](https://img.shields.io/badge/@gabrielvr01-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white&labelColor=000)](https://www.codewars.com/users/gabrielvr01)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=000)](https://www.hackerrank.com/gabrielcrackpro1)
+[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=000)]()
+
+[![Spotify](https://img.shields.io/badge/@Gabrielcrackpro-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white&labelColor=000)](https://open.spotify.com/user/gabrielcrackpro?si=bec89a8986ed4f58)
 
 [![Web](https://img.shields.io/badge/-gabrieldev.surge.sh-212528?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000)](http://gabrielvdev.surge.sh)
 [![Email](https://img.shields.io/badge/gabrielcrackpro2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:gabrielcrackpro2001@gmail.com)

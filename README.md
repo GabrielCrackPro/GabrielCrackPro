@@ -2,7 +2,6 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GabrielCrackPro/ama)
 [![wakatime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=flat-square)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
 
-<img src="./logo.png" alt="logo" width="250" height="250" style="position:absolute;margin:55vw;top:20px;">
 
 ## Setup
 

@@ -1,11 +1,13 @@
-
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000)](https://GitHub.com/GabrielCrackPro/ama)
 [![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge&labelColor=000)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/gabrielvr001?style=social)](https://twitter.com/gabrielvr001)
+![GitHub Followers](https://img.shields.io/github/followers/gabrielcrackpro?style=social)
 
 ## Setup
 
 [![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-212629?style=for-the-badge&logo=apple&logoColor=white&labelColor=000)](https://github.com/GabrielCrackPro/Setup)
+
 ## Skills
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)]()
@@ -23,26 +25,37 @@
 [![Shell](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000)]()
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000)]()
+
 ## Workflow & Tools
+
 ### Code Editors
+
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000)]()
 [![VS Code Settings](https://img.shields.io/badge/VSCode%20Settings-2B7BDB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000)](https://github.com/GabrielCrackPro/vscode-settings)
 
 [![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&labelColor=000)]()
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&labelColor=000)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3BB965?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=000)]()
+
 ### Linters
+
 [![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white&labelColor=000)]()
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=white&labelColor=000)]()
+
 ### Web Browsers
+
 [![Firefox Developer Edition](https://img.shields.io/badge/Firefox_Developer_Edition-294acf?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000)]()
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&&labelColor=000)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white&labelColor=000)]()
+
 ### API development
+
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000)]()
 [![Express](https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=white&labelColor=000)]()
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white&labelColor=000)]()
+
 ## Find me at:
+
 [![Twitter](https://img.shields.io/badge/@gabrielvr01-1da1f2?style=for-the-badge&labelColor=000&color=1da1f2&logo=twitter&logoColor=white)](http://twitter.com/gabrielvr001)
 [![Reddit](https://img.shields.io/badge/@gabrielvr01-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000)](http://reddit.com/gabrielvr01)
 [![Instagram](https://img.shields.io/badge/@gabrielvr001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/gabrielvr001)
@@ -61,12 +74,15 @@
 [![App deployed](https://img.shields.io/badge/%F0%9F%8C%8F-App%20deployed-2e5dc8?style=for-the-badge&&labelColor=000)]()
 
 ## Stats
+
 ![ Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&custom_title=Stats)
 
 ## Languages
+
 ![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
 
 ## Total Coding Time
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=Other,Text,VimL,Git%20Config)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned

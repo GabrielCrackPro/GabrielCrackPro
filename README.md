@@ -41,10 +41,10 @@
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/@gabrielvr01-1da1f2?style=for-the-badge&labelColor=000&color=1da1f2&logo=twitter&logoColor=white)](http://twitter.com/gabrielvr001)
 [![Reddit](https://img.shields.io/badge/@gabrielvr01-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000)](http://reddit.com/gabrielvr01)
-[![Instagram](https://img.shields.io/badge/@gabrielvr001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/gabrielvr001/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=000)](https://www.npmjs.com/~gabrielvr01)
+[![Instagram](https://img.shields.io/badge/@gabrielvr001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/gabrielvr001)
+[![NPM](https://img.shields.io/badge/@gabrielvr01-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=000)](https://www.npmjs.com/~gabrielvr01)
 
-[![Web](https://img.shields.io/badge/-gabrieldev.surge.sh-212528?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000)](http://gabrielvdev.surge.sh/)
+[![Web](https://img.shields.io/badge/-gabrieldev.surge.sh-212528?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000)](http://gabrielvdev.surge.sh)
 
 ## Icons Legend
 

@@ -61,8 +61,8 @@
 
 [![HackTheBox](https://img.shields.io/badge/@gabrielvr001-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=white&labelColor=000)](https://app.hackthebox.com/profile/overview)
 [![Codewars](https://img.shields.io/badge/@gabrielvr01-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white&labelColor=000)](https://www.codewars.com/users/gabrielvr01)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=000)](https://www.hackerrank.com/gabrielcrackpro1)
-[![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=000)]()
+[![HackerRank](https://img.shields.io/badge/@Gabrielcrackpro-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=000)](https://www.hackerrank.com/gabrielcrackpro1)
+[![Heroku](https://img.shields.io/badge/@gabrielvr01-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=000)]()
 
 [![Spotify](https://img.shields.io/badge/@Gabrielcrackpro-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white&labelColor=000)](https://open.spotify.com/user/gabrielcrackpro?si=bec89a8986ed4f58)
 

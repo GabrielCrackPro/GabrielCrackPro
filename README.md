@@ -5,7 +5,7 @@
 
 [![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-212629?style=for-the-badge&logo=apple&logoColor=white&labelColor=000)](https://github.com/GabrielCrackPro/Setup)
 
-## Skills
+## Tech Stack
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)]()
@@ -46,11 +46,17 @@
 [![Firefox Developer Edition](https://img.shields.io/badge/Firefox_Developer_Edition-294acf?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000)]()
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&&labelColor=000)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white&labelColor=000)]()
+
 ### API development
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000)]()
 [![Express](https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=white&labelColor=000)]()
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white&labelColor=000)]()
+
+### Work Organization & Tasks
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000)]()
+[![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000)]()
 
 ## Find me at:
 

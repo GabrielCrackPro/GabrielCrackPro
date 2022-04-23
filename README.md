@@ -1,5 +1,5 @@
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=f00)](https://GitHub.com/GabrielCrackPro/ama)
-[![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge&labelColor=000)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=00a10f)](https://GitHub.com/GabrielCrackPro/ama)
+[![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
 
 ## Setup
 
@@ -12,7 +12,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)]()
 
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)]()
-[![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&labelColor=000)]()
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white&labelColor=000)]()
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)]()
@@ -86,15 +86,10 @@
 
 ## Stats
 
-![ Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&custom_title=Stats)
-
-## Languages
-
-![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
-
-## Total Coding Time
-
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=Other,Text,VimL,Git%20Config)](https://github.com/anuraghazra/github-readme-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&custom_title=Profile)
+![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
 
 ## Pinned
 

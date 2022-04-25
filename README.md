@@ -1,4 +1,4 @@
-<img align="right" width="500" src="https://avatars.githubusercontent.com/u/42187266?v=4" />
+<img align="right" width="300" src="https://avatars.githubusercontent.com/u/42187266?v=4" />
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=00a10f)](https://GitHub.com/GabrielCrackPro/ama)
 [![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)

@@ -1,5 +1,6 @@
 <img align="right" width="300" src="https://avatars.githubusercontent.com/u/42187266?v=4" />
 
+[![Profile Updated](https://img.shields.io/github/last-commit/GabrielCrackPro/GabrielCrackPro?color=00a10f&label=profile%20updated&style=for-the-badge&labelColor=000)]()
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=00a10f)](https://GitHub.com/GabrielCrackPro/ama)
 [![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
 
@@ -9,6 +10,9 @@
 
 ## Tech Stack
 
+<details>
+  <summary><i>View tech stack</i></summary>
+  
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000)]()
@@ -26,39 +30,46 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000)]()
 
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=000)]()
+[![Express](https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=white&labelColor=000)]()
+
+</details>
 
 ## Workflow & Tools
 
 ### Code Editors
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000)]()
+<details>
+ <summary><i>View Code Editors</i></summary>
+ 
+ [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000)]()
 [![VS Code Settings](https://img.shields.io/badge/VSCode%20Settings-2B7BDB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000)](https://github.com/GabrielCrackPro/vscode-settings)
 
 [![xCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&labelColor=000)]()
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&labelColor=000)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3BB965?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=000)]()
 
+</details>
+
 ### Linters
+
+<details>
+ <summary><i>View Linters</i></summary>
 
 [![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white&labelColor=000)]()
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=white&labelColor=000)]()
 
+</details>
+
 ### Web Browsers
+
+<details>
+ <summary></i>View web Browsers</i></summary>
 
 [![Firefox Developer Edition](https://img.shields.io/badge/Firefox_Developer_Edition-294acf?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000)]()
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&&labelColor=000)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white&labelColor=000)]()
 
-### API development
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000)]()
-[![Express](https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=white&labelColor=000)]()
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white&labelColor=000)]()
-
-### Work Organization & Tasks
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000)]()
-[![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000)]()
+</details>
 
 ## Find me at:
 
@@ -88,13 +99,7 @@
 
 ## Stats
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=Other,Text,VimL,Git%20Config)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=GabrielCrackPro&show_icons=true&theme=dark&custom_title=Profile)
-![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCrackPro&theme=dark&layout=compact&custom_title=Languages)
 
-## Pinned
-
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=dotfiles&theme=dark)](https://github.com/GabrielCrackPro/ddotfiles)
-[![vscode-settings](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=vscode-settings&theme=dark)](https://github.com/GabrielCrackPro/vscode-settings)
-[![Setup](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCrackPro&repo=Setup&theme=dark)](https://github.com/GabrielCrackPro/Setup)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvr01&theme=dark&layout=compact&range=all_time&custom_title=Total%20Coding%20Time&hide=Other,Text,VimL,Git%20Config)](https://github.com/anuraghazra/github-readme-stats)

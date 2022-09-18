@@ -3,7 +3,7 @@
 [![Profile Updated](https://img.shields.io/github/last-commit/GabrielCrackPro/GabrielCrackPro?color=00a10f&label=profile%20updated&style=for-the-badge&labelColor=000)]()
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&labelColor=000&color=00a10f)](https://GitHub.com/GabrielCrackPro/ama)
 [![WakaTime](https://wakatime.com/badge/user/00dfcd04-18fb-46f9-88a3-13a3b666b8f1.svg?style=for-the-badge)](https://wakatime.com/@00dfcd04-18fb-46f9-88a3-13a3b666b8f1)
-
+[![Link in bio page](https://img.shields.io/badge/Link%20in%20bio%20page-Up-01a011?style=for-the-badge&labelColor=000)](https://glinkinbio.surge.sh)
 ## Setup
 
 [![Setup](https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-212629?style=for-the-badge&logo=apple&logoColor=white&labelColor=000)](https://github.com/GabrielCrackPro/Setup)
